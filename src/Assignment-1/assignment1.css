@@ -1,7 +1,40 @@
 /* Our CSS file. */
+.division0{
+    width:100%;
+    border:1px solid;
+    height:500px;
 
-
+    
+}
+.division00{
+    width:49%;
+    height:500px;
+    background-color:white;
+    display:inline-block;
+}
+.image{
+    height:500px;
+    width:100%;
+}
 .container, .content {
 width: 100%;
 height: 100%;
+}
+#ab{
+    text-align:center;
+    position: relative;
+    bottom:436px;
+
+}
+.list{
+    font-size: xx-large;
+    position: relative;
+    bottom:300px;
+
+}
+#para{
+    font-size:xx-large;
+    position: relative;
+    top:100px;
+    
 }
